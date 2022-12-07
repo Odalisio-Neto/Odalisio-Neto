@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Odalisio-Neto
-- 👀 I’m interested in Computer Science, Electrical Engineering.
-- 🌱 I’m currently learning Functional Javascript, Angular 9 (web), C (Algorithms and Data Structures)
-- 💞️ I’m looking to collaborate on AI & ML, Web Programming and Software tests.
-- 📫 How to reach me : odalisioelite@gmail.com
+-  Hi, I’m @Odalisio-Neto
+-  I’m interested in Computer Science, Electrical Engineering.
+-  I’m currently learning Deep Learning-related topics in Python
+-  I’m looking to collaborate on AI & ML, Web Programming and Software tests.
+-  How to reach me : odalisioelite@gmail.com
