@@ -15,12 +15,14 @@ An Android application designed to detect and classify Brazilian banknotes using
 - Machine Learning
 - OpenCV
 
-### 2. [URI-Questions-Resolved](https://github.com/Odalisio-Neto/URI-Questions-Resolved)
+### 2. [Test Case Descriptor Summarization](https://github.com/Odalisio-Neto/Test-Case-Descriptor)
 
-Solutions to problems from the URI Online Judge platform, demonstrating skills in logic and programming.
+This project provides a lightweight pipeline to automatically clean and summarize software test case descriptions using four transformer-based models (T5, Flan‑T5, BART, and a custom fine‑tuned T5), then evaluates their outputs with ROUGE metrics and exports the results for integration into testing workflows.
 
 **Technologies Used**:
-- C
+- PyTorch
+- NLTK
+- Hugging Face (Transformers)
 
 ### 3. [LNN-Futebol](https://github.com/Odalisio-Neto/LNN-Futebol)
 
